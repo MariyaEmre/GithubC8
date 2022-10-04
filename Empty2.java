@@ -3,5 +3,6 @@ public class Empty2 {
         System.out.println("Hello, World");
         System.out.println("Hello, World2");
         System.out.println("New comment");
+        System.out.println("Pull trial");
     }
 }
